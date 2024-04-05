@@ -3,7 +3,7 @@ import java.util.concurrent.*;
 import java.io.*;
 import java.util.concurrent.atomic.*;
 
-public class servant
+public class birthdayGifts
 {
 	public static void main(String [] args)
 	{
