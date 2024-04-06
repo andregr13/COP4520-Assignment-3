@@ -149,7 +149,7 @@ class Temps
 		return ret;
 	}
 	
-	public synchronized ArrayList getData()
+	public synchronized ArrayList<ArrayList<Integer>> getData()
 	{
 		return new ArrayList<ArrayList<Integer>>(readers);
 	}
